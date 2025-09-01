@@ -1,0 +1,5 @@
+{
+  "name": "AI Cultural Stylist",
+  "description": "An application that uses AI to restyle portrait images into various cultural aesthetics. Upload a photo and see it reimagined in styles like Western, Bollywood, Japanese street fashion, and more.",
+  "requestFramePermissions": []
+}
